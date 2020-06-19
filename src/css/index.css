@@ -1,0 +1,15 @@
+body {
+    background-color: #e9ecef;
+}
+
+.form-control {
+    border-radius: 3px;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+label {
+    font-weight: bold;
+}
